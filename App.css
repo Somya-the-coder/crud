@@ -1,0 +1,20 @@
+.add_btn{
+ text-align: right;   
+}
+
+.container /*to make our screen responsive: on minimizing scroll bar should come*/
+{
+    overflow :auto;
+}
+
+.left_view h3{
+    font-weight: 21px;
+}
+
+.left_view p{
+    font-weight: 600;
+}
+
+.left_view span{
+    font-weight: 400; 
+}
